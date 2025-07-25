@@ -32,4 +32,5 @@ Usage
 
         streamlit run app.py
 2.Open your web browser and navigate to https://localhost:8501
+
 3.Enter a random message into the provided input field and click the "Check" button        to determine if it is spam or not.
